@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  font-family: sans-serif;
+}
+.top-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.top-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  
+}
+.bottom-left {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.bottom-right {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
